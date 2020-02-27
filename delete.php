@@ -15,6 +15,6 @@
     $stmt->clese();
     $link->close();
   }else{
-    echo "Error! intente más tarde"
+    echo "Error! intente más tarde";
   }
 ?>
